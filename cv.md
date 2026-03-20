@@ -18,22 +18,9 @@ I have practical experience with HTML, CSS, JavaScript, React, and Git. During m
 My goal is to get my first frontend developer position, improve my practical skills, and grow as a frontend developer.
 
 ## Skills
-- HTML5
-- CSS3
-- JavaScript
-- TypeScript
-- React
-- Git, GitHub
-- Sass
-- Bootstrap
-- BEM
-- Webpack
-- Node.js
-- MongoDB
-- MySQL
-- Docker
-- Figma
-- Jira
+**Frontend:** HTML5, CSS3, Sass, Bootstrap, BEM, JavaScript, TypeScript, React, Webpack
+**Backend & Databases:** Node.js, MongoDB, MySQL, Docker
+**Tools & Design:** Git, GitHub, Figma, Jira
 
 ## Code Example
 
@@ -48,3 +35,21 @@ function eachCons(array, n) {
   return result;
 }
 ```
+
+## Courses
+- Web Development, Yandex Practicum, 721 hours
+
+## Languages
+- Russian — Native
+- English — A2 — Elementary
+- German — A1 — Beginner
+
+## Education
+
+- **Higher Education**  
+  National University of Science and Technology MISIS, Moscow — 2026  
+  Major: Web Development (Institute of Information Technologies and Computer Science)
+
+- **Higher Education**  
+  Siberian State Medical University, Tomsk — 2015  
+  Major: General Medicine (Medical Faculty)
