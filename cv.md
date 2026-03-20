@@ -47,3 +47,4 @@ function eachCons(array, n) {
 
   return result;
 }
+```
