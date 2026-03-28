@@ -46,10 +46,10 @@ function eachCons(array, n) {
 
 ## Education
 
-- **Higher Education**  
-  National University of Science and Technology MISIS, Moscow — 2026  
+- **Higher Education**
+  National University of Science and Technology MISIS, Moscow — 2026
   Major: Web Development (Institute of Information Technologies and Computer Science)
 
-- **Higher Education**  
-  Siberian State Medical University, Tomsk — 2015  
+- **Higher Education**
+  Siberian State Medical University, Tomsk — 2015
   Major: General Medicine (Medical Faculty)
