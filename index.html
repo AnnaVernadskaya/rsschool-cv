@@ -12,7 +12,7 @@
         <aside class="sidebar">
           <img
             class="avatar"
-            src="./images/avatar.jpeg"
+            src="./images/avatar.png"
             alt="Photo of Anna Vernadskaya"
           >
 
@@ -29,7 +29,7 @@
           <section class="sidebar-section" id="skills">
             <h2>Skills</h2>
             <ul class="skills-list">
-              <li>HTML5, CSS3, Sass, Bootstrap</li>
+              <li>HTML5, CSS3</li>
               <li>BEM, Responsive Layout</li>
               <li>JavaScript, TypeScript</li>
               <li>React, Webpack</li>
@@ -229,14 +229,12 @@
 
           <section class="content-section" id="code">
             <h2>Code Example</h2>
-            <pre><code>function eachCons(array, n) {
-  const result = [];
+            <pre><code>function findShort(text) {
+  const wordLengths = text
+    .split(" ")
+    .map((word) => word.length);
 
-  for (let i = 0; i &lt;= array.length - n; i++) {
-    result.push(array.slice(i, i + n));
-  }
-
-  return result;
+  return Math.min(...wordLengths);
 }</code></pre>
           </section>
 
